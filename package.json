@@ -1,0 +1,8 @@
+{
+  "name": "puzzle-of-the-week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile-template.js",
+  "author": "James Meyers",
+  "license": "ISC"
+}
