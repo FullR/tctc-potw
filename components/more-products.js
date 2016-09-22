@@ -6,7 +6,7 @@ const getGradeLinks = (gradeNum) => [
   {text: "Social Studies", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=119`}
 ];
 
-const gradeLinks = {
+const gradeLinks = (grade) => ({
   "prek": getGradeLinks(118),
   "k": getGradeLinks(117),
   "1": getGradeLinks(116),
@@ -17,7 +17,7 @@ const gradeLinks = {
   "6": getGradeLinks(111),
   "7": getGradeLinks(110),
   "8": getGradeLinks(109)
-};
+}[grade]);
 
 const gradeName = (grade) => ({
   "prek": "Preschool",
@@ -30,10 +30,10 @@ const gradeName = (grade) => ({
   "6": "6th",
   "7": "7th",
   "8": "8th"
-}[grade])
+}[grade]);
 
 const OtherProductLink = ({href, text}) => `
-  <a href="${href}" target="_blank" style="text-decoration:underline;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>${text}</strong></font></a>
+  <a href="${href}" target="_blank" style="text-decoration:none;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong style="text-decoration:underline;">${text}</strong></font></a>
 `;
 
 const OtherProductGradeGroup = ({links, name}) => `
@@ -46,7 +46,7 @@ const OtherProductGradeGroup = ({links, name}) => `
       <br>
       <div style="height:6px;"></div>
       <font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif">
-        ${links.map(OtherProductLink).join(" | ")}
+        ${links.map(OtherProductLink).join("<span> | </span>")}
       </font>
       <br>
       <br>
@@ -63,7 +63,7 @@ module.exports = ({grades}) => `
             <td align="center" valign="top">
               <table width="596" border="0" align="center" cellpadding="0" cellspacing="0">
                 ${grades.map((grade) => OtherProductGradeGroup({
-                  links: gradeLinks[grade],
+                  links: gradeLinks(grade),
                   name: gradeName(grade)
                 })).join("\n")}
               </table>

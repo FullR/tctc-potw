@@ -1,3 +1,5 @@
+const fontSize = 13;
+
 module.exports = ({product}) => `
   <table width="600" border="0" align="center" cellpadding="0">
     <tr>
@@ -24,7 +26,7 @@ module.exports = ({product}) => `
                 <tr>
                   <td align="left" valign="top" bgcolor="#FFFFFF">
                     <br /> <span
-                    style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">
+                    style="font-family:Arial, Helvetica, sans-serif; font-size:${fontSize}px; color:#333333;">
                     <strong>Building Thinking Skills &bull; Reading
                     &bull; Math &bull; Science &bull; Social Studies</strong>
                     <br /><br /> <em>Can You Find Me?</em>
@@ -41,7 +43,7 @@ module.exports = ({product}) => `
                 <tr>
                   <td colspan="2" align="left" valign="top" bgcolor="#FFFFFF">
                     <br /> <span
-                    style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">
+                    style="font-family:Arial, Helvetica, sans-serif; font-size:${fontSize}px; color:#333333;">
                     <strong>Content</strong><br /> MATH&mdash;counting,
                     shape and number recognition, recognizing and completing
                     patterns, spatial position, more/less/equal, ordinal
