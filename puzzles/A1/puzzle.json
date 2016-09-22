@@ -1,7 +1,8 @@
 {
   "product": "can-you-find-me-prek",
-  "pages": ["84"],
-  "hasAnswer": true,
+  "bookPage": "84",
+  "pageCount": 1,
+  "answerCount": 1,
   "coupon1": "A1",
   "coupon2": "1"
 }
