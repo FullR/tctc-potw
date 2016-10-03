@@ -1,0 +1,506 @@
+{
+  "can-you-find-me-prek": {
+    "title": "Can You Find Me? PreK",
+    "seriesTitle": "Can You Find Me?",
+    "product": "can-you-find-me-prek",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/3/03801.gif",
+    "productUrl": "http://www.criticalthinking.com/can-you-find-me-prek.html",
+    "seriesUrl": "http://www.criticalthinking.com/can-you-find-me-books-riddle-rabbit-software.html",
+    "softwareOption": false
+  },
+  "thinker-doodles-beginning": {
+    "title": "Thinker Doodles Beginning",
+    "seriesTitle": "Thinker Doodles",
+    "product": "thinker-doodles-beginning",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/3/03021.gif",
+    "productUrl": "http://www.criticalthinking.com/thinker-doodles-beginning-ebook.html",
+    "seriesUrl": "http://www.criticalthinking.com/thinker-doodles.html",
+    "softwareOption": false
+  },
+  "mathematical-reasoning-beginning-1": {
+    "title": "Mathematical Reasoning&#8482; Beginning 1",
+    "seriesTitle": "Mathematical Reasoning&#8482;",
+    "product": "mathematical-reasoning-beginning-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06913.gif",
+    "productUrl": "http://www.criticalthinking.com/mathematical-reasoning-beginning-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/mathematical-reasoning.html",
+    "softwareOption": false
+  },
+  "mind-benders-level-1": {
+    "title": "Mind Benders&#174; Level 1",
+    "seriesTitle": "Mind Benders&#174;",
+    "product": "mind-benders-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01328.gif",
+    "productUrl": "http://www.criticalthinking.com/mind-benders-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/mind-benders.html",
+    "softwareOption": true
+  },
+  "building-thinking-skills-beginning": {
+    "title": "Building Thinking Skills&#174; Beginning",
+    "seriesTitle": "Building Thinking Skills&#174;",
+    "product": "building-thinking-skills-beginning",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/5/05233.gif",
+    "productUrl": "http://www.criticalthinking.com/building-thinking-skills-beginning.html",
+    "seriesUrl": "http://www.criticalthinking.com/building-thinking-skills.html",
+    "softwareOption": true
+  },
+  "dr-dooriddles-a1": {
+    "title": "Dr. DooRiddles A1",
+    "seriesTitle": "Dr. DooRiddles",
+    "product": "dr-dooriddles-a1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09201.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-dooriddles-a1.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-dooriddles-spelling-dooriddles.html",
+    "softwareOption": false
+  },
+  "fun-time-phonics": {
+    "title": "Fun-Time Phonics!&#8482;",
+    "seriesTitle": "Fun-Time Phonics!&#8482;",
+    "product": "fun-time-phonics",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/0/10201.gif",
+    "productUrl": "http://www.criticalthinking.com/fun-time-phonics-book.html",
+    "seriesUrl": "http://www.criticalthinking.com/fun-time-phonics.html",
+    "softwareOption": true
+  },
+  "mathematical-reasoning-beginning-2": {
+    "title": "Mathematical Reasoning&#8482; Beginning 2",
+    "seriesTitle": "Mathematical Reasoning&#8482;",
+    "product": "mathematical-reasoning-beginning-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06914.gif",
+    "productUrl": "http://www.criticalthinking.com/mathematical-reasoning-beginning-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/mathematical-reasoning.html",
+    "softwareOption": false
+  },
+  "dr-dooriddles-a2": {
+    "title": "Dr. DooRiddles A2",
+    "seriesTitle": "Dr. DooRiddles",
+    "product": "dr-dooriddles-a2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09204.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-dooriddles-a2.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-dooriddles-spelling-dooriddles.html",
+    "softwareOption": false
+  },
+  "mind-benders-level-2": {
+    "title": "Mind Benders&#174; Level 2",
+    "seriesTitle": "Mind Benders&#174;",
+    "product": "mind-benders-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01330.gif",
+    "productUrl": "http://www.criticalthinking.com/mind-benders-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/mind-benders.html",
+    "softwareOption": true
+  },
+  "can-you-find-me-k-1": {
+    "title": "Can You Find Me? K-1",
+    "seriesTitle": "Can You Find Me?",
+    "product": "can-you-find-me-k-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/3/03802.gif",
+    "productUrl": "http://www.criticalthinking.com/can-you-find-me-k-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/can-you-find-me-books-riddle-rabbit-software.html",
+    "softwareOption": false
+  },
+  "balance-benders-beginning": {
+    "title": "Balance Benders&#8482; Beginning",
+    "seriesTitle": "Balance Benders&#8482;",
+    "product": "balance-benders-beginning",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06701.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-benders-beginning.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-benders.html",
+    "softwareOption": true
+  },
+  "editor-in-chief-beginning-1": {
+    "title": "Editor in Chief&#174; Beginning 1",
+    "seriesTitle": "Editor in Chief&#174;",
+    "product": "editor-in-chief-beginning-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09708.gif",
+    "productUrl": "http://www.criticalthinking.com/editor-in-chief-beginning-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/editor-in-chief.html",
+    "softwareOption": true
+  },
+  "mathematical-reasoning-level-b": {
+    "title": "Mathematical Reasoning&#8482; Level B",
+    "seriesTitle": "Mathematical Reasoning&#8482;",
+    "product": "mathematical-reasoning-level-b",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06907.gif",
+    "productUrl": "http://www.criticalthinking.com/mathematical-reasoning-level-b.html",
+    "seriesUrl": "http://www.criticalthinking.com/mathematical-reasoning.html",
+    "softwareOption": false
+  },
+  "language-smarts-level-b": {
+    "title": "Language Smarts&#8482; Level B",
+    "seriesTitle": "Language Smarts&#8482;",
+    "product": "language-smarts-level-b",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01001.gif",
+    "productUrl": "http://www.criticalthinking.com/language-smarts-level-b.html",
+    "seriesUrl": "http://www.criticalthinking.com/language-smarts.html",
+    "softwareOption": false
+  },
+  "math-analogies-level-1": {
+    "title": "Math Analogies Level 1",
+    "seriesTitle": "Math Analogies",
+    "product": "math-analogies-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08502.gif",
+    "productUrl": "http://www.criticalthinking.com/math-analogies-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/math-analogies.html",
+    "softwareOption": true
+  },
+  "balance-math-&#38;-more-level-1": {
+    "title": "Balance Math&#8482; &#38; More Level 1",
+    "seriesTitle": "Balance Math&#8482; &#38; More",
+    "product": "balance-math-&#38;-more-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/7/07101.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-math-more-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-math-more.html",
+    "softwareOption": true
+  },
+  "dr-funsters-think-a-minutes-a1": {
+    "title": "Dr. Funster's Think-A-Minutes A1",
+    "seriesTitle": "Dr. Funster's Think-A-Minutes",
+    "product": "dr-funsters-think-a-minutes-a1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/0/00101.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-funsters-think-a-minutes-a1.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-funsters.html",
+    "softwareOption": false
+  },
+  "half-n-half-animals-a1": {
+    "title": "Half 'n Half Animals A1",
+    "seriesTitle": "Half 'n Half Animals",
+    "product": "half-n-half-animals-a1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/2/02912.gif",
+    "productUrl": "http://www.criticalthinking.com/half-n-half-animals-a1-ebook.html",
+    "seriesUrl": "http://www.criticalthinking.com/half-n-half-animals.html",
+    "softwareOption": false
+  },
+  "building-thinking-skills-level-1": {
+    "title": "Building Thinking Skills&#174; Level 1",
+    "seriesTitle": "Building Thinking Skills&#174;",
+    "product": "building-thinking-skills-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/5/05241.gif",
+    "productUrl": "http://www.criticalthinking.com/building-thinking-skills-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/building-thinking-skills.html",
+    "softwareOption": true
+  },
+  "dr-dooriddles-a3": {
+    "title": "Dr. DooRiddles A3",
+    "seriesTitle": "Dr. DooRiddles",
+    "product": "dr-dooriddles-a3",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09207.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-dooriddles-a3.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-dooriddles-spelling-dooriddles.html",
+    "softwareOption": false
+  },
+  "smarty-pants-puzzles-level-1": {
+    "title": "Smarty Pants Puzzles&#8482; Level 1",
+    "seriesTitle": "Smarty Pants Puzzles&#8482;",
+    "product": "smarty-pants-puzzles-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08301.gif",
+    "productUrl": "http://www.criticalthinking.com/smarty-pants-puzzles-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/smarty-pants-puzzles.html",
+    "softwareOption": false
+  },
+  "balance-benders-level-1": {
+    "title": "Balance Benders&#8482; Level 1",
+    "seriesTitle": "Balance Benders&#8482;",
+    "product": "balance-benders-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06702.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-benders-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-benders.html",
+    "softwareOption": true
+  },
+  "the-basics-of-critical-thinking": {
+    "title": "The Basics of Critical Thinking",
+    "seriesTitle": "The Basics of Critical Thinking",
+    "product": "the-basics-of-critical-thinking",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08001.gif",
+    "productUrl": "http://www.criticalthinking.com/the-basics-of-critical-thinking-book.html",
+    "seriesUrl": "http://www.criticalthinking.com/the-basics-of-critical-thinking.html",
+    "softwareOption": false
+  },
+  "editor-in-chief-level-1": {
+    "title": "Editor in Chief&#174; Level 1",
+    "seriesTitle": "Editor in Chief&#174;",
+    "product": "editor-in-chief-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09710.gif",
+    "productUrl": "http://www.criticalthinking.com/editor-in-chief-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/editor-in-chief.html",
+    "softwareOption": true
+  },
+  "mind-benders-level-3": {
+    "title": "Mind Benders&#174; Level 3",
+    "seriesTitle": "Mind Benders&#174;",
+    "product": "mind-benders-level-3",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01333.gif",
+    "productUrl": "http://www.criticalthinking.com/mind-benders-level-3.html",
+    "seriesUrl": "http://www.criticalthinking.com/mind-benders.html",
+    "softwareOption": true
+  },
+  "writing-detective-level-1": {
+    "title": "Writing Detective&#174; Level 1",
+    "seriesTitle": "Writing Detective&#174;",
+    "product": "writing-detective-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/0/10501.gif",
+    "productUrl": "http://www.criticalthinking.com/writing-detective-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/writing-detective.html",
+    "softwareOption": false
+  },
+  "balance-math-&#38;-more-level-2": {
+    "title": "Balance Math&#8482; &#38; More Level 2",
+    "seriesTitle": "Balance Math&#8482; &#38; More",
+    "product": "balance-math-&#38;-more-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/7/07102.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-math-more-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-math-more.html",
+    "softwareOption": false
+  },
+  "building-thinking-skills-level-2": {
+    "title": "Building Thinking Skills&#174; Level 2",
+    "seriesTitle": "Building Thinking Skills&#174;",
+    "product": "building-thinking-skills-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/5/05242.gif",
+    "productUrl": "http://www.criticalthinking.com/building-thinking-skills-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/building-thinking-skills.html",
+    "softwareOption": true
+  },
+  "reading-detective-beginning": {
+    "title": "Reading Detective&#174; Beginning",
+    "seriesTitle": "Reading Detective&#174;",
+    "product": "reading-detective-beginning",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01506.gif",
+    "productUrl": "http://www.criticalthinking.com/reading-detective-beginning.html",
+    "seriesUrl": "http://www.criticalthinking.com/reading-detective.html",
+    "softwareOption": true
+  },
+  "mathematical-reasoning-level-e": {
+    "title": "Mathematical Reasoning&#8482; Level E",
+    "seriesTitle": "Mathematical Reasoning&#8482;",
+    "product": "mathematical-reasoning-level-e",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06910.gif",
+    "productUrl": "http://www.criticalthinking.com/mathematical-reasoning-level-e.html",
+    "seriesUrl": "http://www.criticalthinking.com/mathematical-reasoning.html",
+    "softwareOption": false
+  },
+  "language-smarts-level-e": {
+    "title": "Language Smarts&#8482; Level E",
+    "seriesTitle": "Language Smarts&#8482;",
+    "product": "language-smarts-level-e",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01004.gif",
+    "productUrl": "http://www.criticalthinking.com/language-smarts-level-e.html",
+    "seriesUrl": "http://www.criticalthinking.com/language-smarts.html",
+    "softwareOption": false
+  },
+  "word-roots-level-1": {
+    "title": "Word Roots Level 1",
+    "seriesTitle": "Word Roots",
+    "product": "word-roots-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/3/03751.gif",
+    "productUrl": "http://www.criticalthinking.com/word-roots-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/word-roots.html",
+    "softwareOption": true
+  },
+  "math-analogies-level-2": {
+    "title": "Math Analogies Level 2",
+    "seriesTitle": "Math Analogies",
+    "product": "math-analogies-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08503.gif",
+    "productUrl": "http://www.criticalthinking.com/math-analogies-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/math-analogies.html",
+    "softwareOption": true
+  },
+  "inference-jones-level-1": {
+    "title": "Inference Jones Level 1",
+    "seriesTitle": "Inference Jones",
+    "product": "inference-jones-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09502.gif",
+    "productUrl": "http://www.criticalthinking.com/inference-jones-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/inference-jones.html",
+    "softwareOption": false
+  },
+  "crypto-mind-benders-classic-jokes": {
+    "title": "Crypto Mind Benders&#174; Classic Jokes",
+    "seriesTitle": "Crypto Mind Benders&#174;",
+    "product": "crypto-mind-benders-classic-jokes",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/2/02302.gif",
+    "productUrl": "http://www.criticalthinking.com/crypto-mind-benders-classic-jokes.html",
+    "seriesUrl": "http://www.criticalthinking.com/crypto-mind-benders.html",
+    "softwareOption": false
+  },
+  "dr-dooriddles-b1": {
+    "title": "Dr. DooRiddles B1",
+    "seriesTitle": "Dr. DooRiddles",
+    "product": "dr-dooriddles-b1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/0/10301.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-dooriddles-b1.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-dooriddles-spelling-dooriddles.html",
+    "softwareOption": false
+  },
+  "jumbles": {
+    "title": "Jumbles",
+    "seriesTitle": "Jumbles",
+    "product": "jumbles",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09202.gif",
+    "productUrl": "http://www.criticalthinking.com/jumbles-book.html",
+    "seriesUrl": "http://www.criticalthinking.com/jumbles.html",
+    "softwareOption": true
+  },
+  "dr-funsters-think-a-minutes-b1": {
+    "title": "Dr. Funster's Think-A-Minutes B1",
+    "seriesTitle": "Dr. Funster's Think-A-Minutes",
+    "product": "dr-funsters-think-a-minutes-b1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/0/00103.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-funsters-think-a-minutes-b1.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-funsters.html",
+    "softwareOption": false
+  },
+  "vocabulary-virtuoso-elementary-school-vocabulary-for-academic-success": {
+    "title": "Vocabulary Virtuoso: Elementary School Vocabulary for Academic Success",
+    "seriesTitle": "Vocabulary Virtuoso",
+    "product": "vocabulary-virtuoso-elementary-school-vocabulary-for-academic-success",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/1/11202.gif",
+    "productUrl": "http://www.criticalthinking.com/vocabulary-virtuoso-elementary-school-vocabulary-for-academic-success.html",
+    "seriesUrl": "http://www.criticalthinking.com/vocabulary-virtuoso.html",
+    "softwareOption": false
+  },
+  "reading-detective-a1": {
+    "title": "Reading Detective&#174; A1",
+    "seriesTitle": "Reading Detective&#174;",
+    "product": "reading-detective-a1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01507.gif",
+    "productUrl": "http://www.criticalthinking.com/reading-detective-a1.html",
+    "seriesUrl": "http://www.criticalthinking.com/reading-detective.html",
+    "softwareOption": true
+  },
+  "pattern-explorer-level-1": {
+    "title": "Pattern Explorer Level 1",
+    "seriesTitle": "Pattern Explorer",
+    "product": "pattern-explorer-level-1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/1/11002.gif",
+    "productUrl": "http://www.criticalthinking.com/pattern-explorer-level-1.html",
+    "seriesUrl": "http://www.criticalthinking.com/pattern-explorer.html",
+    "softwareOption": false
+  },
+  "editor-in-chief-level-2": {
+    "title": "Editor in Chief&#174; Level 2",
+    "seriesTitle": "Editor in Chief&#174;",
+    "product": "editor-in-chief-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/9/09711.gif",
+    "productUrl": "http://www.criticalthinking.com/editor-in-chief-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/editor-in-chief.html",
+    "softwareOption": false
+  },
+  "dr-funsters-think-a-minutes-c1": {
+    "title": "Dr. Funster's Think-A-Minutes C1",
+    "seriesTitle": "Dr. Funster's Think-A-Minutes",
+    "product": "dr-funsters-think-a-minutes-c1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/0/00105.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-funsters-think-a-minutes-c1.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-funsters.html",
+    "softwareOption": false
+  },
+  "building-thinking-skills-level-3-verbal": {
+    "title": "Building Thinking Skills&#174; Level 3 Verbal",
+    "seriesTitle": "Building Thinking Skills&#174;",
+    "product": "building-thinking-skills-level-3-verbal",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/5/05244.gif",
+    "productUrl": "http://www.criticalthinking.com/building-thinking-skills-level-3-verbal.html",
+    "seriesUrl": "http://www.criticalthinking.com/building-thinking-skills.html",
+    "softwareOption": false
+  },
+  "mind-benders-level-5": {
+    "title": "Mind Benders&#174; Level 5",
+    "seriesTitle": "Mind Benders&#174;",
+    "product": "mind-benders-level-5",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01335.gif",
+    "productUrl": "http://www.criticalthinking.com/mind-benders-level-5.html",
+    "seriesUrl": "http://www.criticalthinking.com/mind-benders.html",
+    "softwareOption": true
+  },
+  "balance-benders-level-2": {
+    "title": "Balance Benders&#8482; Level 2",
+    "seriesTitle": "Balance Benders&#8482;",
+    "product": "balance-benders-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/6/06703.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-benders-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-benders.html",
+    "softwareOption": true
+  },
+  "balance-math-&#38;-more-level-3": {
+    "title": "Balance Math&#8482; &#38; More Level 3",
+    "seriesTitle": "Balance Math&#8482; &#38; More",
+    "product": "balance-math-&#38;-more-level-3",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/7/07103.gif",
+    "productUrl": "http://www.criticalthinking.com/balance-math-more-level-3.html",
+    "seriesUrl": "http://www.criticalthinking.com/balance-math-more.html",
+    "softwareOption": false
+  },
+  "reading-detective-b1": {
+    "title": "Reading Detective&#174; B1",
+    "seriesTitle": "Reading Detective&#174;",
+    "product": "reading-detective-b1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/1/01508.gif",
+    "productUrl": "http://www.criticalthinking.com/reading-detective-b1.html",
+    "seriesUrl": "http://www.criticalthinking.com/reading-detective.html",
+    "softwareOption": true
+  },
+  "daily-mind-builders-language-arts": {
+    "title": "Daily Mind Builders&#8482;: Language Arts",
+    "seriesTitle": "Daily Mind Builders&#8482;",
+    "product": "daily-mind-builders-language-arts",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/4/04601.gif",
+    "productUrl": "http://www.criticalthinking.com/daily-mind-builders-language-arts.html",
+    "seriesUrl": "http://www.criticalthinking.com/daily-mind-builders.html",
+    "softwareOption": false
+  },
+  "building-thinking-skills-level-3-figural": {
+    "title": "Building Thinking Skills&#174; Level 3 Figural",
+    "seriesTitle": "Building Thinking Skills&#174;",
+    "product": "building-thinking-skills-level-3-figural",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/5/05243.gif",
+    "productUrl": "http://www.criticalthinking.com/building-thinking-skills-level-3-figural.html",
+    "seriesUrl": "http://www.criticalthinking.com/building-thinking-skills.html",
+    "softwareOption": false
+  },
+  "pattern-explorer-level-2": {
+    "title": "Pattern Explorer Level 2",
+    "seriesTitle": "Pattern Explorer",
+    "product": "pattern-explorer-level-2",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/1/11003.gif",
+    "productUrl": "http://www.criticalthinking.com/pattern-explorer-level-2.html",
+    "seriesUrl": "http://www.criticalthinking.com/pattern-explorer.html",
+    "softwareOption": false
+  },
+  "dr-funsters-visual-mind-benders-b1": {
+    "title": "Visual Mind Benders&#174; B1",
+    "seriesTitle": "Visual Mind Benders&#174;",
+    "product": "dr-funsters-visual-mind-benders-b1",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/0/00131.gif",
+    "productUrl": "http://www.criticalthinking.com/dr-funsters-visual-mind-benders-b1-ebook.html",
+    "seriesUrl": "http://www.criticalthinking.com/dr-funsters.html",
+    "softwareOption": false
+  },
+  "math-analogies-level-3": {
+    "title": "Math Analogies&#8482; Level 3",
+    "seriesTitle": "Math Analogies&#8482;",
+    "product": "math-analogies-level-3",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08504.gif",
+    "productUrl": "http://www.criticalthinking.com/math-analogies-level-3.html",
+    "seriesUrl": "http://www.criticalthinking.com/math-analogies.html",
+    "softwareOption": true
+  },
+  "vocabulary-virtuoso-mastering-middle-school-vocabulary": {
+    "title": "Vocabulary Virtuoso: Mastering Middle School Vocabulary",
+    "seriesTitle": "Vocabulary Virtuoso",
+    "product": "vocabulary-virtuoso-mastering-middle-school-vocabulary",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/1/1/11201.gif",
+    "productUrl": "http://www.criticalthinking.com/vocabulary-virtuoso-mastering-middle-school-vocabulary.html",
+    "seriesUrl": "http://www.criticalthinking.com/vocabulary-virtuoso.html",
+    "softwareOption": false
+  },
+  "math-analogies-level-4": {
+    "title": "Math Analogies&#8482; Level 4",
+    "seriesTitle": "Math Analogies&#8482;",
+    "product": "math-analogies-level-4",
+    "imageUrl": "http://www.criticalthinking.com/media/catalog/product/0/8/08505.gif",
+    "productUrl": "http://www.criticalthinking.com/math-analogies-level-4.html",
+    "seriesUrl": "http://www.criticalthinking.com/math-analogies.html",
+    "softwareOption": true
+  }
+}

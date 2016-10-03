@@ -1,12 +1,14 @@
+const getter = (obj) => (key) => obj[key];
+
 const getGradeLinks = (gradeNum) => [
-  {text: "Critical Thinking", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=123`},
-  {text: "Language Arts", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=122`},
-  {text: "Mathematics", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=121`},
-  {text: "Science", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=120`},
-  {text: "Social Studies", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=119`}
+  {text: "Critical Thinking", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=123&product_type[]=all`},
+  {text: "Language Arts", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=122&product_type[]=all`},
+  {text: "Mathematics", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=121&product_type[]=all`},
+  {text: "Science", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=120&product_type[]=all`},
+  {text: "Social Studies", href: `http://www.criticalthinking.com/catalogsearch/advanced/result/?grade%5B%5D=${gradeNum}&subject%5B%5D=119&product_type[]=all`}
 ];
 
-const gradeLinks = (grade) => ({
+const gradeLinks = getter({
   "prek": getGradeLinks(118),
   "k": getGradeLinks(117),
   "1": getGradeLinks(116),
@@ -17,9 +19,9 @@ const gradeLinks = (grade) => ({
   "6": getGradeLinks(111),
   "7": getGradeLinks(110),
   "8": getGradeLinks(109)
-}[grade]);
+});
 
-const gradeName = (grade) => ({
+const gradeName = getter({
   "prek": "Preschool",
   "k": "Kindergarten",
   "1": "1st",
@@ -30,7 +32,7 @@ const gradeName = (grade) => ({
   "6": "6th",
   "7": "7th",
   "8": "8th"
-}[grade]);
+});
 
 const OtherProductLink = ({href, text}) => `
   <a href="${href}" target="_blank" style="text-decoration:none;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong style="text-decoration:underline;">${text}</strong></font></a>

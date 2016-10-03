@@ -1,4 +1,15 @@
-module.exports = ({coupon1, coupon2}) => {
+const offers = {
+  "1": "10% Off any size order",
+  "2": "15% off order over $50",
+  "3": "Free Shipping over $35",
+  "0": "Free Shipping + 10% off orders over $50"
+};
+
+function getOffer(coupon) {
+  return offers[parseInt(coupon) % 4];
+}
+
+module.exports = ({seriesTitle, coupon1, coupon2}) => {
   const coupon1Href = `http://www.criticalthinking.com/index.php?coupon=PUZZLE${coupon1}`;
   const coupon2Href = `http://www.criticalthinking.com/index.php?coupon=PUZZLES${coupon2}`;
   return `
@@ -10,10 +21,10 @@ module.exports = ({coupon1, coupon2}) => {
               <td width="596" colspan="4" align="center" valign="middle" bgcolor="#D2232A" style="padding:10px 10px 10px 25px;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:34px; font-weight:bold; color:#FFFFFF; padding:0px;">Special Offers!</span></td>
             </tr>
             <tr>
-              <td colspan="4" align="left" valign="top" bgcolor="#FFFFFF" style="padding:10px 10px 10px 25px;"><span class="contentPadding" style="padding:10px 10px 10px 0px;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; color:#333333; padding:0px;">Save 20% Off All Can You Find Me? Books!</span> <br>
+              <td colspan="4" align="left" valign="top" bgcolor="#FFFFFF" style="padding:10px 10px 10px 25px;"><span class="contentPadding" style="padding:10px 10px 10px 0px;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; color:#333333; padding:0px;">Save 20% Off All ${seriesTitle} Books!</span> <br>
                 <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#333333;"> Details below. Use Coupon Code: </span><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px;"><font color="#666666"><strong>PUZZLE${coupon1}</strong></font></span> | <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;"><a href="${coupon1Href}" target="_blank"><font color="#3366CC">SHOP NOW &raquo;</font></a></span></span> <br>
                 <br>
-                <span class="contentPadding" style="padding:10px 10px 10px 0px;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; color:#333333; padding:0px;">Or, Save 10% Off Any Size Order!</span> <br>
+                <span class="contentPadding" style="padding:10px 10px 10px 0px;"><span style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; color:#333333; padding:0px;">Or, ${getOffer(coupon2)}!</span> <br>
                 <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#333333;">Details below. Use Coupon Code: </span><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px;"><font color="#666666"><strong>PUZZLES${coupon2}</strong></font></span> | <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;"><a href="${coupon2Href}" target="_blank"><font color="#3366CC">SHOP NOW &raquo;</font></a></span></span> <br>
                 <br>
               </td>

@@ -21,8 +21,18 @@ function getGrades(coupon) {
   }[coupon[0]];
 }
 
+function getGradeRange(coupon) {
+  return {
+    "A": "prek",
+    "B": "k-2",
+    "C": "3-5",
+    "D": "6-8"
+  }[coupon[0]];
+}
+
 module.exports = ({puzzle}) => {
-  const {product, bookPage, pageCount, answerCount, coupon1, coupon2} = puzzle;
+  const {product, title, seriesTitle, productUrl, seriesUrl, imageUrl, bookPage, pageCount, answerCount, coupon1, coupon2} = puzzle;
+  const gradeRange = getGradeRange(coupon1);
   return `
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
     <html>
@@ -32,15 +42,15 @@ module.exports = ({puzzle}) => {
       </head>
       <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
         <center>
-          ${Header()}
-          ${Banner()}
+          ${Header({gradeRange})}
+          ${Banner({gradeRange})}
           ${PuzzleImageList({product, bookPage, pageCount})}
           ${DownloadLink({src: getPuzzlePDF(product, bookPage)})}
           <br/>
-          ${ProductDescription({product})}
+          ${ProductDescription({product, title, seriesTitle, productUrl, seriesUrl, imageUrl})}
           <br/>
           <br/>
-          ${SpecialOffers({coupon1, coupon2})}
+          ${SpecialOffers({coupon1, coupon2, seriesTitle})}
           <br/>
           <br/>
           ${MoreProducts({grades: getGrades(coupon1)})}
