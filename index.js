@@ -16,4 +16,4 @@ Promise.all(["A", "B", "C", "D"].map((c) => mkdirp(`emails/${c}`))).then(() =>
 
     return writeFile(`emails/${puzzle.coupon1[0]}/${puzzle.coupon1.slice(1)}.html`, emailHTML);
   }))
-)
+);

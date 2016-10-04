@@ -14,7 +14,7 @@ module.exports = ({product, bookPage, answerCount}) => `
               </tr>
               ${range(answerCount).map((answerIndex) =>
                 AnswerImage({product, bookPage, page: answerIndex + 1})
-              )}
+              ).join("\n")}
               <tr>
                 <td align="center" valign="middle" bgcolor="#FFFFFF"></td>
               </tr>

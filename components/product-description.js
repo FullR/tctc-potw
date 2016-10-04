@@ -1,7 +1,7 @@
 const {readFileSync} = require("fs");
 const fontSize = 13;
 
-module.exports = ({product, title, seriesTitle, imageUrl, productUrl, seriesUrl}) => {
+module.exports = ({product, title, seriesTitle, imageUrl, productUrl, seriesUrl, softwareOption}) => {
   try {
     const productDescription = readFileSync(`descriptions/${product}.html`);
     return `<table width="600" border="0" align="center" cellpadding="0">
@@ -28,7 +28,7 @@ module.exports = ({product, title, seriesTitle, imageUrl, productUrl, seriesUrl}
                       <a href="${productUrl}" target="_blank" style="text-decoration:underline;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Learn more about ${title}</strong></font></a>
                       <br>
                       <br>
-                      <a href="${seriesUrl}" target="_blank" style="text-decoration:underline;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>More ${seriesTitle} books & software</strong></font></a>
+                      <a href="${seriesUrl}" target="_blank" style="text-decoration:underline;"><font color="#3366CC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>More ${seriesTitle} books${softwareOption ? " & software" : ""}</strong></font></a>
                       <br>
                       <br>
                     </td>

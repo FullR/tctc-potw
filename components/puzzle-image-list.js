@@ -1,7 +1,7 @@
 const {range} = require("lodash");
 const PuzzleImage = require("./puzzle-image");
 
-module.exports = ({product, bookPage, pageCount=1}) => `
+module.exports = ({product, bookPage, puzzleCount=1}) => `
   <table width="596" border="0" align="center" cellpadding="0">
     <tr>
       <td align="left" valign="middle" bgcolor="#FFFFFF">
@@ -9,7 +9,7 @@ module.exports = ({product, bookPage, pageCount=1}) => `
           <tr>
             <td align="center" valign="top">
               <table width="596" border="0" align="center" cellpadding="0" cellspacing="0">
-                ${range(pageCount).map((pageIndex) =>
+                ${range(puzzleCount).map((pageIndex) =>
                   PuzzleImage({product, bookPage, page: pageIndex + 1})
                 ).join("\n")}
               </table>
